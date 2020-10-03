@@ -1,0 +1,9 @@
+﻿<Application x:Class="RestConvertDevis.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:RestConvertDevis"
+             StartupUri="DevisConverter.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
